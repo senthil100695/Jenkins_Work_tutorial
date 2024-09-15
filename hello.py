@@ -1,1 +1,1 @@
-python("Hello Senthil")
+print("Hello Senthil")
